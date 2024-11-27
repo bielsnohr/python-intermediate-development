@@ -138,6 +138,8 @@ Below are some additional resources to help you continue learning:
 
 - [Additional episode on persisting data](../learners/persistence.md)
 - [Additional episode on databases](../learners/databases.md)
+- [Additional episode on software architecture](../learners/software-architecture-extra.md)
+- [Additional episode on programming paradigms](../learners/programming-paradigms.md)
 - [CodeRefinery lessons][coderefinery-lessons] on writing software for open and reproducible research
 - [Python documentation][python-documentation]
 - [GitHub Actions documentation][github-actions]
